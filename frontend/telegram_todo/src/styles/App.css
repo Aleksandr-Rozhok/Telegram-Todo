@@ -1,0 +1,15 @@
+.App {
+    width: 800px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+    padding: 20px;
+}
+
+.title {
+    color: #fff;
+}
